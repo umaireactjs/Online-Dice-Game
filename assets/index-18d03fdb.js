@@ -116,7 +116,7 @@ Error generating stack: `+o.message+`
     font-size: 24px;
     font-weight: 500px;
   }
-`,Tm=({roleDice:e,currentDice:t})=>R.jsxs(Rm,{children:[R.jsx("div",{className:"dice",onClick:e,children:R.jsx("img",{src:`/images/dice/dice_${t}.png`,className:"dicee",alt:"dice_1"})}),R.jsx("p",{children:"Click on Dice to roll"})]}),Rm=be.div`
+`,Tm=({roleDice:e,currentDice:t})=>R.jsxs(Rm,{children:[R.jsx("div",{className:"dice",onClick:e,children:R.jsx("img",{src:`/images/dice/dice_${t}.png`,className:"dicee",alt:"dice 1"})}),R.jsx("p",{children:"Click on Dice to roll"})]}),Rm=be.div`
   margin-top: 48px;
   display: flex;
   flex-direction: column;
