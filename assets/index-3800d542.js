@@ -66,7 +66,7 @@ Error generating stack: `+o.message+`
     border: 1px solid transparent;
     color: white;
   }
-`,xm=({toggle:e})=>R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"./images/dices.png",className:"new",alt:"agd"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]}),Em=be.div`
+`,xm=({toggle:e})=>R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"./images/dices.png",className:"new"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]}),Em=be.div`
   max-width: 1180px;
   height: 100vh;
   display: flex;
